@@ -1,1 +1,1 @@
-# case_study_bi_analyst
+# Case study na pozici BI analytika
